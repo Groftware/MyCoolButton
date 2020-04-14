@@ -1,6 +1,6 @@
 {
     "name": "mycoolbutton",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Just a cool button",
     "main": "./lib/MyCoolButton.js",
     "license": "MIT",
